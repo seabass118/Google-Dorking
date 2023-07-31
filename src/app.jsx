@@ -1,9 +1,13 @@
 export function App() {
 	return (
 		<div className="bg-gray-800 min-h-screen p-10">
-			<div className="font-bold text-3xl text-emerald-300 pb-10">
+			<div className="font-bold text-3xl text-emerald-300 pb-6">
 				Unveiling the Hidden Web:<br></br> Mastering the Art of Google
 				Dorking
+			</div>
+
+            <div className=" text-sm text-white pb-10">
+				By Sebastian Blackley
 			</div>
 
 			<div className="font-bold text-xl text-emerald-300 pb-2">
